@@ -2,7 +2,10 @@
 
 <p align='center'>I am a Mobile app Developer focused on Flutter💙 and Firebase💛.  <img src="https://gpvc.arturio.dev/praharshbhatt" /></p>
 
-<p align='center'>Check my portfolio here: https://www.praharshbhatt.com/</p>
+<p align='center'>
+  [My portfolio](https://www.praharshbhatt.com/ "Praharsh Bhatt's Portfolio")
+  [My resume](https://www.praharshbhatt.com/assets/Praharsh%20Bhatt%20Resume.pdf "Praharsh Bhatt's Resume")
+</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/praharshnbhatt/">
