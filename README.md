@@ -3,11 +3,6 @@
 <p align='center'>I am a Mobile app Developer focused on Flutter💙 and Firebase💛.  <img src="https://gpvc.arturio.dev/praharshbhatt" /></p>
 
 <p align='center'>
-  [My portfolio](https://www.praharshbhatt.com/ "Praharsh Bhatt's Portfolio")
-  [My resume](https://www.praharshbhatt.com/assets/Praharsh%20Bhatt%20Resume.pdf "Praharsh Bhatt's Resume")
-</p>
-
-<p align='center'>
 <a href="https://www.linkedin.com/in/praharshnbhatt/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -27,6 +22,16 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UClPmA_n-sgh2jglnqAwEKBA?style=for-the-badge" />
 </a>
 </p>
+
+
+
+<div align='center'>
+
+  [My portfolio](https://www.praharshbhatt.com/ "Praharsh Bhatt's Portfolio")
+
+  [My resume](https://www.praharshbhatt.com/assets/Praharsh%20Bhatt%20Resume.pdf "Praharsh Bhatt's Resume")
+
+</div>
 
 
 <p align='center'>
