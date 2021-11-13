@@ -35,7 +35,9 @@
 
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=praharshbhatt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,9b009f,6723d1&hide_border=true" width=80%y>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=praharshbhatt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,9b009f,6723d1&hide_border=true" width=80%y> -->
+
+  <img src="assets/praharsh-github-stats.svg" width=80%y>
 </p>
 
 <!--
